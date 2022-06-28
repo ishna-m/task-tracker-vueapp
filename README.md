@@ -5,7 +5,7 @@ A Task Tracker App made with Vue.js that allows you to add, update, and cross of
 
 Please refer to the src folder for my work. App.vue and the components folder specifically. 
 Within the components folder the app is broken into 5 components; Header, Button, Task, Tasks, AddTask. 
-Makes use of props, events, emit method, javascript functions and form inputs. 
+Makes use of props, events and event listeners, emit method, javascript functions and form inputs. 
 
 Node.js and npm will be necessary to run the app.
 
