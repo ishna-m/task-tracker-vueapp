@@ -1,29 +1,6 @@
-# task-tracker-vueapp
+A Task Tracker App made with Vue.js that allows you to add, update, and cross off task items. 
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+![task tracker vue](https://user-images.githubusercontent.com/92906868/176318245-79ed3218-02ba-4759-a944-e3f6be01e16d.gif)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
